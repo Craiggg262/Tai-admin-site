@@ -1,0 +1,1 @@
+web: gunicorn tai_admin_site.wsgi
