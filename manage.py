@@ -1,0 +1,1 @@
+# Basic manage.py placeholder
